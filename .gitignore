@@ -23,9 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 
 #ignorar demais configs
-*.lock
-*yarn-error.log
-*tsconfig.json
-*package.json
+yarn.lock*
+yarn-error.log
+tsconfig.json
+package.json
 firebase.json
 database.rules.json
