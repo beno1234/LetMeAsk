@@ -21,9 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+yarn.lock*
 
 #ignorar demais configs
-yarn.lock*
+
 yarn-error.log
 tsconfig.json
 package.json
